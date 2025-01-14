@@ -21,4 +21,4 @@ Useful data is stored in columns:
 
 Rendered result:
 
-![TC measurement example for Tinsley 5685A2](examples/mi6010rfm_rs_t5685_10r_rx_xg9330_100_tcr_3458a_sr1010_r2_jan2025_1.png)
+![TC measurement example for Tinsley 5685A2](mi6010rfm_rs_t5685_10r_rx_xg9330_100_tcr_3458a_sr1010_r2_jan2025_1.png)
