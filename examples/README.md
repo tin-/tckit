@@ -51,3 +51,51 @@ Use [*tckit_34420_test1.py*](tckit_34420_test1.py) Python script to run this exa
 Rendered result:
 
 ![34420A TC example](hp3458abx_hp34420a_tcsweep_10vdc_nplc100_test1_oct2024_1.png)
+
+File hp3458abx_hp34420a_tcsweep_1vdc_nplc100_test2_oct2024_1.png
+---------------------------------------------------------------------------
+
+This data set is showcasing TC measurement on HP 34420A nanovoltmeter 1V range with both channels under test:
+34420A was located in air-bath and monitored with dedicated PT100 temperature sensor nearby.
+
+Use [*tckit_34420_test2.py*](tckit_34420_test2.py) Python script to run this example
+
+Rendered result:
+
+![HP34420 Test 2 example](hp3458abx_hp34420a_tcsweep_1vdc_nplc100_test2_oct2024_1.png)
+
+File hp3458abx_hp34420a_tcsweep_100mvdc_nplc100_test3_oct2024_1.png
+---------------------------------------------------------------------------
+
+This data set is showcasing TC measurement on HP 34420A nanovoltmeter 100 mV range with both channels under test:
+34420A was located in air-bath and monitored with dedicated PT100 temperature sensor nearby.
+
+Use [*tckit_34420_test3.py*](tckit_34420_test3.py) Python script to run this example
+
+Rendered result:
+
+![HP34420 Test 3 example](hp3458abx_hp34420a_tcsweep_100mvdc_nplc100_test3_oct2024_1.png)
+
+File hp3458abx_hp34420a_tcsweep_k262_102_10mvdc_nplc100_test3_oct2024_1.png
+---------------------------------------------------------------------------
+
+This data set is showcasing TC measurement on HP 34420A nanovoltmeter 10 mV range with both channels under test:
+34420A was located in air-bath and monitored with dedicated PT100 temperature sensor nearby.
+
+Use [*tckit_34420_test4.py*](tckit_34420_test4.py) Python script to run this example
+
+Rendered result:
+
+![HP34420 Test 4 example](hp3458abx_hp34420a_tcsweep_k262_102_10mvdc_nplc100_test3_oct2024_1.png)
+
+File hp3458abx_hp34420a_tcsweep_k262_102_1mvdc_nplc100_k2002ltc_1801_test4_oct2024_1.png
+---------------------------------------------------------------------------
+
+This data set is showcasing TC measurement on HP 34420A nanovoltmeter 1 mV range with both channels under test:
+34420A was located in air-bath and monitored with dedicated PT100 temperature sensor nearby.
+
+Use [*tckit_34420_test5.py*](tckit_34420_test5.py) Python script to run this example
+
+Rendered result:
+
+![HP34420 Test 5 example](hp3458abx_hp34420a_tcsweep_k262_102_1mvdc_nplc100_k2002ltc_1801_test4_oct2024_1.png)
