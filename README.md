@@ -58,7 +58,7 @@ Use [*tckit_34420_test4.py*](tckit_34420_test4.py) Python script in examples to 
 
 Rendered result:
 
-![HP34420 Test 3 example](hp3458abx_hp34420a_tcsweep_100mvdc_nplc100_test3_oct2024_1.png)
+![HP34420 Test 3 example](examples/hp3458abx_hp34420a_tcsweep_100mvdc_nplc100_test3_oct2024_1.png)
 
 Usage
 -----
