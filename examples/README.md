@@ -22,3 +22,32 @@ Useful data is stored in columns:
 Rendered result:
 
 ![TC measurement example for Tinsley 5685A2](mi6010rfm_rs_t5685_10r_rx_xg9330_100_tcr_3458a_sr1010_r2_jan2025_1.png)
+
+File hp3458abx_hp34420a_tcsweep_10vdc_nplc100_test1_oct2024_1.dsv
+---
+
+
+This data set is showcasing TC measurement on HP 34420A nanovoltmeter 10V range with both channels under test:
+34420A was located in air-bath and monitored with dedicated PT100 temperature sensor nearby.
+
+Useful data is stored in columns:
+
+* Timestamp/datestamp stored in column 1
+* HP 34420A DUT for Channel 1 data stored in column 13
+* HP 34420A DUT for Channel 2 data stored in column 14
+* HP 3458A 1 reference 10 V data stored in column 10 (offset +1 ppm applied)
+* HP 3458A 2 reference 10 V data stored in column 11
+* HP 3459A 3 reference 10 V data stored in column 12 (offset -2.6 ppm applied)
+* Ambient temperature sensor data stored in column 26
+* Ambient humidity sensor data stored in column 27
+* Ambient pressure sensor data stored in column 28
+* TMP119 DUT temperature sensor stored in column 8
+* Additional TMP117 DUT temperature sensor stored in column 7
+* NTC for air-bath rear sensor stored in column 29
+* Setpoint for air-bath stored in column 32
+
+Use [*tckit_34420_test1.py*](tckit_34420_test1.py) Python script to run this example.
+
+Rendered result:
+
+![34420A TC example](hp3458abx_hp34420a_tcsweep_10vdc_nplc100_test1_oct2024_1.png)
